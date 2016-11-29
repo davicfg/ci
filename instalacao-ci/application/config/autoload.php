@@ -43,7 +43,7 @@ $autoload['packages'] = array();
 
 /*
 | -------------------------------------------------------------------
-|  Auto-load Libraries
+|  Auto-load Libraries  
 | -------------------------------------------------------------------
 | These are the classes located in system/libraries/ or your
 | application/libraries/ directory, with the addition of the
