@@ -13,10 +13,8 @@
     <!--[if	lt	IE	9]><script	src="http://getbootstrap.com/assets/js/ie8-responsive-file-warningjs"></script><![endif]-->
     <script	src="http://getbootstrap.com/assets/js/ie-emulation-modes-warning.js"></script>
     <!--[if	lt	IE	9]>
-    <script	src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shi
-v.min.js"></script>
-    <script	src="https://oss.maxcdn.com/respond/1.4.2/respond.mi
-n.js"></script>
+    <script	src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script	src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
 <body>

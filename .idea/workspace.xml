@@ -1,7 +1,421 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="039ede9b-7d12-4861-962f-218c42378c0e" name="Default" comment="" />
+    <list default="true" id="039ede9b-7d12-4861-962f-218c42378c0e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/DCO.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/cache/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/cache/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/constants.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/database.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/doctypes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/foreign_chars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/hooks.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/memcached.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/migration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/mimes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/profiler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/smileys.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/config/user_agents.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/controllers/Institucional.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/controllers/Welcome.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/controllers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/core/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/helpers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/hooks/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/english/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/calendar_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/date_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/db_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/email_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/form_validation_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/ftp_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/imglib_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/migration_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/number_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/pagination_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/profiler_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/unit_test_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese-brazilian/upload_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/calendar_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/date_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/db_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/email_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/form_validation_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/ftp_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/imglib_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/migration_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/number_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/pagination_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/profiler_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/unit_test_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/language/portuguese/upload_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/libraries/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/logs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/models/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/third_party/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/errors/cli/error_404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/errors/cli/error_db.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/errors/cli/error_exception.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/errors/cli/error_general.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/errors/cli/error_php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/errors/cli/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/errors/html/error_404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/errors/html/error_db.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/errors/html/error_exception.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/errors/html/error_general.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/errors/html/error_php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/errors/html/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/errors/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/application/views/welcome_message.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/assets/css/home.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/assets/css/internas.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/assets/img/bg-home.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/build-release.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/contributing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/phpdoc.dist.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/readme.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/Bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/Setup_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/Benchmark_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/Common_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/Config_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/Input_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/Lang_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/Loader_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/Log_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/Model_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/Output_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/Security_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/URI_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/Utf8_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/compat/hash_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/compat/mbstring_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/compat/password_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/core/compat/standard_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/DB_driver_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/DB_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/count_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/delete_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/distinct_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/empty_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/escape_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/from_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/get_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/group_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/insert_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/join_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/like_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/limit_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/order_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/select_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/truncate_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/update_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/database/query_builder/where_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/array_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/captcha_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/cookie_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/date_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/directory_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/download_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/email_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/file_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/form_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/html_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/inflector_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/language_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/number_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/path_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/security_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/string_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/text_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/url_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/helpers/xml_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/libraries/Calendar_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/libraries/Driver_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/libraries/Encrypt_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/libraries/Encryption_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/libraries/Form_validation_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/libraries/Parser_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/libraries/Session_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/libraries/Table_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/libraries/Typography_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/libraries/Upload_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/codeigniter/libraries/Useragent_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/autoloader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/ci_testcase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/ci_testconfig.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/core/common.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/core/input.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/core/security.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/core/uri.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/core/utf8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/ci_test.sqlite" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/config/mysql.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/config/mysqli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/config/pdo/mysql.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/config/pdo/pgsql.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/config/pdo/sqlite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/config/pgsql.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/config/sqlite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/db.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/db/driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/drivers/mysql.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/drivers/mysqli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/drivers/pdo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/drivers/postgre.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/drivers/sqlite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/database/schema/skeleton.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/libraries/driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/libraries/encrypt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/libraries/encryption.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/libraries/session.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/libraries/table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/mocks/uploads/ci_logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/travis/mysql.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/travis/mysqli.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/travis/pdo/mysql.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/travis/pdo/pgsql.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/travis/pdo/sqlite.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/travis/pgsql.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/tests/travis/sqlite.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/README.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/cilexer/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/cilexer/cilexer/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/cilexer/cilexer/cilexer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/cilexer/setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/DCO.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/breadcrumbs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/layout_old.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/pulldown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/searchbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/static/css/badge_only.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/static/css/citheme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/static/css/theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/static/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/static/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/static/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/static/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/static/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/static/images/ci-icon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/static/js/oldtheme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/static/js/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/theme.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/_themes/sphinx_rtd_theme/versions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/changelog.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/conf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/contributing/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/caching.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/call_function.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/configuration.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/connecting.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/db_driver_reference.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/examples.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/forge.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/helpers.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/metadata.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/queries.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/query_builder.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/results.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/transactions.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/database/utilities.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/documentation/ELDocs.tmbundle.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/documentation/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/alternative_php.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/ancillary_classes.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/autoloader.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/caching.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/cli.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/common_functions.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/compatibility_functions.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/controllers.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/core_classes.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/creating_drivers.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/creating_libraries.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/credits.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/drivers.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/environments.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/errors.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/helpers.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/hooks.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/libraries.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/managing_apps.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/models.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/profiling.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/requirements.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/reserved_names.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/routing.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/security.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/styleguide.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/urls.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/views.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/general/welcome.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/array_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/captcha_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/cookie_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/date_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/directory_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/download_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/email_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/file_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/form_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/html_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/inflector_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/language_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/number_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/path_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/security_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/smiley_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/string_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/text_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/typography_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/url_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/helpers/xml_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/images/appflowchart.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/images/arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/images/ci-icon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/images/ci_logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/images/ci_logo_flame.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/images/file.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/images/folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/images/smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/downloads.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/troubleshooting.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_120.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_130.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_131.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_132.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_133.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_140.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_141.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_150.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_152.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_153.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_154.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_160.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_161.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_162.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_163.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_170.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_171.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_172.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_200.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_201.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_202.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_203.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_210.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_211.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_212.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_213.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_214.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_220.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_221.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_222.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_223.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_300.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_301.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_302.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_303.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_304.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_305.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_306.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_310.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_311.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_312.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_313.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_320.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrade_b11.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/installation/upgrading.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/benchmark.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/caching.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/calendar.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/cart.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/config.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/email.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/encrypt.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/encryption.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/file_uploading.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/form_validation.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/ftp.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/image_lib.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/input.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/javascript.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/language.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/loader.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/migration.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/output.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/pagination.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/parser.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/security.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/sessions.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/table.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/trackback.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/typography.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/unit_testing.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/uri.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/user_agent.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/xmlrpc.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/libraries/zip.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/license.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/overview/appflow.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/overview/at_a_glance.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/overview/features.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/overview/getting_started.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/overview/goals.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/overview/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/overview/mvc.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/tutorial/conclusion.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/tutorial/create_news_items.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/tutorial/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/tutorial/news_section.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/site-institucional/user_guide_src/source/tutorial/static_pages.rst" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instalacao-ci/application/config/autoload.php" afterPath="$PROJECT_DIR$/instalacao-ci/application/config/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instalacao-ci/application/config/config.php" afterPath="$PROJECT_DIR$/instalacao-ci/application/config/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instalacao-ci/application/config/constants.php" afterPath="$PROJECT_DIR$/instalacao-ci/application/config/constants.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instalacao-ci/application/config/mimes.php" afterPath="$PROJECT_DIR$/instalacao-ci/application/config/mimes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instalacao-ci/application/config/routes.php" afterPath="$PROJECT_DIR$/instalacao-ci/application/config/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instalacao-ci/application/config/user_agents.php" afterPath="$PROJECT_DIR$/instalacao-ci/application/config/user_agents.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instalacao-ci/composer.json" afterPath="$PROJECT_DIR$/instalacao-ci/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instalacao-ci/index.php" afterPath="$PROJECT_DIR$/instalacao-ci/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/CodeIgniter.php" afterPath="$PROJECT_DIR$/system/core/CodeIgniter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Common.php" afterPath="$PROJECT_DIR$/system/core/Common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Config.php" afterPath="$PROJECT_DIR$/system/core/Config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Exceptions.php" afterPath="$PROJECT_DIR$/system/core/Exceptions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Lang.php" afterPath="$PROJECT_DIR$/system/core/Lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Loader.php" afterPath="$PROJECT_DIR$/system/core/Loader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Router.php" afterPath="$PROJECT_DIR$/system/core/Router.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Driver.php" afterPath="$PROJECT_DIR$/system/libraries/Driver.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Migration.php" afterPath="$PROJECT_DIR$/system/libraries/Migration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/libraries/Session/Session.php" afterPath="$PROJECT_DIR$/system/libraries/Session/Session.php" />
+    </list>
     <ignored path="ci.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,31 +435,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site-institucional/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Institucional.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Institucional.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site-institucional/application/controllers/Institucional.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            <state relative-caret-position="0">
+              <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site-institucional/application/views/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="9" column="105" selection-start-line="9" selection-start-column="105" selection-end-line="9" selection-end-column="105" />
+            <state relative-caret-position="144">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site-institucional/application/config/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -67,10 +481,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/instalacao-ci/application/config/autoload.php" />
-        <option value="$PROJECT_DIR$/site-institucional/application/controllers/Institucional.php" />
         <option value="$PROJECT_DIR$/site-institucional/application/views/home.php.html" />
         <option value="$PROJECT_DIR$/site-institucional/application/views/.php" />
         <option value="$PROJECT_DIR$/site-institucional/application/views/home.php" />
+        <option value="$PROJECT_DIR$/site-institucional/application/config/autoload.php" />
+        <option value="$PROJECT_DIR$/site-institucional/application/controllers/Institucional.php" />
+        <option value="$PROJECT_DIR$/site-institucional/application/config/routes.php" />
       </list>
     </option>
   </component>
@@ -146,7 +562,25 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="site-institucional" />
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ci" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ci" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -163,14 +597,19 @@
               <option name="myItemId" value="site-institucional" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,20 +676,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1480365444484</updated>
-      <workItem from="1480365447229" duration="5110000" />
+      <workItem from="1480365447229" duration="6760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5110000" />
+    <option name="totallyTimeSpent" value="6760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1063" y="24" width="1327" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15297663" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17784476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="1172" y="198" width="1127" height="544" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -331,18 +771,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site-institucional/application/controllers/Institucional.php">
+    <entry file="file://$PROJECT_DIR$/site-institucional/application/helpers/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/helpers/url_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1384">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site-institucional/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site-institucional/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site-institucional/application/views/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="9" column="105" selection-start-line="9" selection-start-column="105" selection-end-line="9" selection-end-column="105" />
+        <state relative-caret-position="144">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site-institucional/application/controllers/Institucional.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
         </state>
       </provider>
