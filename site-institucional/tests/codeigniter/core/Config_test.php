@@ -184,7 +184,7 @@ class Config_test extends CI_TestCase {
 			'two' => 2,
 			'three' => TRUE
 		);
-		$this->ci_vfs_create($file.'.php', '<?php $config = '.var_export($cfg, TRUE).';', $this->ci_app_root, 'config');
+		$this->ci_vfs_create($file.'home.php', '<?php $config = '.var_export($cfg, TRUE).';', $this->ci_app_root, 'config');
 		$this->assertTrue($this->config->load($file, TRUE));
 		$this->assertEquals($cfg, $this->config->item($file));
 
@@ -197,7 +197,7 @@ class Config_test extends CI_TestCase {
 
 		$pkg_dir = 'package';
 		$this->ci_vfs_create(
-			$file.'.php',
+			$file.'home.php',
 			'<?php $config = '.var_export($cfg2, TRUE).';',
 			$this->ci_app_root,
 			array($pkg_dir, 'config')
@@ -215,7 +215,7 @@ class Config_test extends CI_TestCase {
 		// Test regular fail of invalid file
 		$this->setExpectedException(
 			'RuntimeException',
-			'CI Error: Your '.$this->ci_vfs_path('config/'.$file.'.php', APPPATH).
+			'CI Error: Your '.$this->ci_vfs_path('config/'.$file.'home.php', APPPATH).
 				' file does not appear to contain a valid configuration array.'
 		);
 		$this->assertNull($this->config->load($file));
@@ -232,7 +232,7 @@ class Config_test extends CI_TestCase {
 		$file = 'absentia';
 		$this->setExpectedException(
 			'RuntimeException',
-			'CI Error: The configuration file '.$file.'.php does not exist.'
+			'CI Error: The configuration file '.$file.'home.php does not exist.'
 		);
 		$this->assertNull($this->config->load($file));
 	}

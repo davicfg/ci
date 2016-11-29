@@ -322,7 +322,7 @@ class Loader_test extends CI_TestCase {
 		$this->ci_vfs_create($file, $content, $this->ci_app_root, $dir);
 
 		// Just like load->view(), take the output class out of the mix here.
-		$out = $this->load->file(APPPATH.$dir.'/'.$file.'.php', TRUE);
+		$out = $this->load->file(APPPATH.$dir.'/'.$file.'home.php', TRUE);
 		$this->assertEquals($content, $out);
 
 		// Test non-existent file

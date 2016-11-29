@@ -89,18 +89,18 @@ function autoload($class)
 		{
 			$driver_path = SYSTEM_PATH.'database'.DIRECTORY_SEPARATOR.'drivers'.DIRECTORY_SEPARATOR;
 			$dir = $driver_path.$m[1].DIRECTORY_SEPARATOR.'subdrivers'.DIRECTORY_SEPARATOR;
-			$file = $dir.$m[1].'_'.$m[2].'_'.$m[3].'.php';
+			$file = $dir.$m[1].'_'.$m[2].'_'.$m[3].'home.php';
 		}
 		elseif (preg_match('/^CI_DB_(.+)_(driver|forge|result|utility)$/', $class, $m) && count($m) === 3)
 		{
 			$driver_path = SYSTEM_PATH.'database'.DIRECTORY_SEPARATOR.'drivers'.DIRECTORY_SEPARATOR;
 			$dir = $driver_path.$m[1].DIRECTORY_SEPARATOR;
-			$file = $dir.$m[1].'_'.$m[2].'.php';
+			$file = $dir.$m[1].'_'.$m[2].'home.php';
 		}
 		elseif (strpos($class, 'CI_DB') === 0)
 		{
 			$dir = SYSTEM_PATH.'database'.DIRECTORY_SEPARATOR;
-			$file = $dir.str_replace(array('CI_DB','active_record'), array('DB', 'active_rec'), $subclass).'.php';
+			$file = $dir.str_replace(array('CI_DB','active_record'), array('DB', 'active_rec'), $subclass).'home.php';
 		}
 		else
 		{
@@ -108,7 +108,7 @@ function autoload($class)
 		}
 	}
 
-	$file = isset($file) ? $file : $dir.$class.'.php';
+	$file = isset($file) ? $file : $dir.$class.'home.php';
 
 	if ( ! file_exists($file))
 	{

@@ -152,7 +152,7 @@ class CI_TestCase extends PHPUnit_Framework_TestCase {
 
 		if ( ! class_exists('CI_'.$class_name))
 		{
-			require_once SYSTEM_PATH.'core/'.$class_name.'.php';
+			require_once SYSTEM_PATH.'core/'.$class_name.'home.php';
 		}
 
 		$GLOBALS[strtoupper($global_name)] = 'CI_'.$class_name;
@@ -210,10 +210,10 @@ class CI_TestCase extends PHPUnit_Framework_TestCase {
 			return;
 		}
 
-		// Assert .php extension if none given
+		// Assert home.php extension if none given
 		if (pathinfo($file, PATHINFO_EXTENSION) == '')
 		{
-			$file .= '.php';
+			$file .= 'home.php';
 		}
 
 		// Build content

@@ -86,7 +86,7 @@ class Mock_Database_DB {
 	public static function config($driver)
 	{
 		$dir = realpath(dirname(__FILE__)).DIRECTORY_SEPARATOR;
-		return include($dir.'config'.DIRECTORY_SEPARATOR.$driver.'.php');
+		return include($dir.'config'.DIRECTORY_SEPARATOR.$driver.'home.php');
 	}
 
 	/**
